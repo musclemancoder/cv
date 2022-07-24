@@ -1,0 +1,19 @@
+body{
+    background-color: #E4DCCF;
+}
+
+.checked {
+    color: orange;
+  }
+h1,h3{
+    color:#576F72
+}
+  hr{
+      background-color: #E4DCCF;
+      border-style: none;
+      width: 5%;
+      border-width: 5px;
+      border-top-style:dotted ;
+      border-color: gray;
+    
+  }
